@@ -7,4 +7,4 @@
 5. learned CSS
 6. learned HTML5
 7. learned CSS3
-8. am now learning how to use GitHub
+8. Now I am learning how to use GitHub
